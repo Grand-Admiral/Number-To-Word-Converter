@@ -1,0 +1,8 @@
+C:\Users\PCBuild\source\repos\Converter\ClassLibrary1\obj\Debug\netstandard2.0\ConverterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PCBuild\source\repos\Converter\ClassLibrary1\obj\Debug\netstandard2.0\ConverterLibrary.AssemblyInfoInputs.cache
+C:\Users\PCBuild\source\repos\Converter\ClassLibrary1\obj\Debug\netstandard2.0\ConverterLibrary.AssemblyInfo.cs
+C:\Users\PCBuild\source\repos\Converter\ClassLibrary1\bin\Debug\netstandard2.0\ConverterLibrary.deps.json
+C:\Users\PCBuild\source\repos\Converter\ClassLibrary1\bin\Debug\netstandard2.0\ConverterLibrary.pdb
+C:\Users\PCBuild\source\repos\Converter\ClassLibrary1\obj\Debug\netstandard2.0\ConverterLibrary.dll
+C:\Users\PCBuild\source\repos\Converter\ClassLibrary1\obj\Debug\netstandard2.0\ConverterLibrary.pdb
+C:\Users\PCBuild\source\repos\Converter\ClassLibrary1\bin\Debug\netstandard2.0\ConverterLibrary.dll
