@@ -5,4 +5,4 @@ Three projects are contained:
 - Class Library
 - CLI for interaction with Library.
 
-For the project to work run the it with the CLI as the primary project.
+For the project to work, run it with the CLI as the primary project.
